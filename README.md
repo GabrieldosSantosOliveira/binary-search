@@ -20,7 +20,7 @@ git clone https://github.com/GabrieldosSantosOliveira/binary-search.git
 ```
 Compile with gcc
 ```bash
-gcc -o main main.c
+gcc main.c binary_search.c -o main
 ```
 Rund the code
 ```bash
